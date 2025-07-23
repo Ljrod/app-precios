@@ -1,0 +1,7 @@
+body { font-family: system-ui; padding: 2rem; background:#111; color:#eee }
+input { padding: .5rem 1rem; border-radius: 8px 0 0 8px; border:none; width: 260px;}
+button { padding: .5rem 1rem; border:none; background:#ff4f00; color:white; border-radius:0 8px 8px 0; cursor:pointer;}
+#winner, .winner { background:#064; font-weight:bold; }
+table { width:100%; margin-top:1rem; border-collapse: collapse}
+td, th { padding:.6rem; border-bottom:1px solid #444;}
+a { color:#1fa3ff }
